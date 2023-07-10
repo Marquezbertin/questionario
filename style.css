@@ -1,0 +1,57 @@
+
+ 
+ img {
+     width: 50%;
+     /* define a largura da imagem como 50% do elemento pai *
+            display: block;
+            /* Transforma a imagem em um elemento de bloco */
+            margin-left: auto;
+            /* Define a margem esquerda como automática */
+            margin-right: auto;
+            /* Define a margem direita como automática */
+ }
+
+ /* Define o estilo para o texto */
+ .h1 {
+     color: black;
+     /* Define a cor do texto como preto */
+     font-family: Verdana, sans-serif;
+     /* Define a fonte do texto */
+     text-align: center;
+     /* Centraliza o texto */
+     font-size: 30px;
+     /* Define o tamanho da fonte como 30 pixels */
+
+    }
+    
+ .objetivo {
+     color: black;
+     /* Define a cor do texto como preto */
+     font-family: Arial, sans-serif;
+     /* Define a fonte do texto */
+     font-size: 16px;
+     /* Define o tamanho da fonte como 16 pixels */
+    text-align: justify;
+ }
+
+ .subtitulo {
+     color: black;
+     /* Define a cor do texto como preto */
+     font-family: Verdana, sans-serif;
+     /* Define a fonte do texto */
+     font-size: 25px;
+     /* Define o tamanho da fonte como 25 pixels */
+     text-align: center;
+ }
+
+ .respostas {
+    color: black;
+        /* Define a cor do texto como preto */
+        font-family: Arial, sans-serif;
+        /* Define a fonte do texto */
+        font-size: 16px;
+        /* Define o tamanho da fonte como 16 pixels */
+        text-align: justify;
+     
+ }
+
