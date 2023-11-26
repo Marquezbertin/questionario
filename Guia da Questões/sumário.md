@@ -25,3 +25,6 @@
 
 [História da Computação - IBM PC](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Comouta%C3%A7%C3%A3o%20-%20IBM%20PC.md)
 
+
+[História da Computação - Processador de Texto](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Comouta%C3%A7%C3%A3o%20-%20IBM%20PC.md)
+
