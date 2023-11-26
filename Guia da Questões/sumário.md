@@ -13,5 +13,6 @@
 [História da Computação - John von Neumann](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20%20-%20John%20von%20Neumann.md)
 
 
-[História da Computação - Ada Lovelace](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20%20-%20John%20von%20Neumann.md)
+[História da Computação - Ada Lovelace](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20-%20Ada%20Lovelace.md)
+
 
