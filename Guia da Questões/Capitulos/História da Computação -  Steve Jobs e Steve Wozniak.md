@@ -1,6 +1,6 @@
 # História da Computação -  Steve Jobs e Steve Wozniak
 
-## 12 - Quais foram as principais contribuições de Steve Jobs e Steve Wozniak para a história da computação?
+## 14 - Quais foram as principais contribuições de Steve Jobs e Steve Wozniak para a história da computação?
 
 A história da computação é repleta de inovações e avanços que moldaram o mundo contemporâneo. Dois visionários, Steve Jobs e Steve Wozniak, desempenharam papéis cruciais nesse cenário, oferecendo contribuições que transcendem as linhas do tempo. Neste artigo, exploraremos as principais realizações desses ícones da tecnologia e seu impacto na história da computação.
 Fundação da Apple por Steve Jobs e Steve Wozniak
