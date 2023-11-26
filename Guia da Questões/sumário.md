@@ -9,3 +9,7 @@
 
 
 [História da Computação - Alan Turing](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20computa%C3%A7%C3%A3o%20-%20Alan%20Turing.md)
+
+[História da Computação - John von Neumann](https://github.com/Marquezbertin/questionario/blob/mestre/Guia%20da%20Quest%C3%B5es/Capitulos/Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20%20-%20John%20von%20Neumann.md)
+
+
