@@ -1,5 +1,7 @@
 # História da Computação - Alan Turing
 
+[Filme: Enigma O Jogo da Imitação](https://www.youtube.com/watch?v=lRid96uWpqo)
+
 ## 3- Quem é considerado o pai da computação moderna? Por quê?
 
 Alan Turing foi um matemático que revolucionou a área de tecnologia. Suas invenções contribuíram para que o mundo automatizado de hoje pudesse existir e, por isso, é considerado o “pai da computação”. Imagine um mundo sem computadores e seus derivados, como laptops, smartphones e afins, e que tem no passado uma Segunda Guerra Mundial ainda pior do que realmente foi, durante a qual o desembarque na Normandia, o famoso “Dia D”, foi um verdadeiro desastre para os Países Aliados e, o pior de tudo, 14 milhões de pessoas a mais perderam suas vidas.
