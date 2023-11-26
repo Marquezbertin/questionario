@@ -13,3 +13,12 @@ Essa falta de reconhecimento do grande público gera muitas discussões no ramo 
 * Um importante legado de Turing está ligado a trabalhos realizados no Projeto Ultra, um dos segredos ingleses mais bem guardados, durante a Segunda Guerra Mundial.
 * Ele era homossexual, algo considerado ilegal no Reino Unido dos anos 50. 
 * Condenado a receber injeções de hormônio para uma castração química e em estado depressivo, suicidou-se aos 41 anos por envenenamento com cianeto, mas muitos questionam essa versão.
+
+## 4- O que é a máquina de Turing? Qual foi sua importância para a ciência da computação?
+
+
+Na década de 30, “computadores” eram pessoas que faziam contas. Alan Turing queria revolucionar isso e automatizar a solução de problemas. Aos 24 anos, com toda sua genialidade, criou um modelo matemático do que seria um computador: uma máquina capaz de trabalhar com algoritmos, baseada em um passo a passo de procedimentos necessários para alcançar um resultado.
+
+Um algoritmo é uma sequência de instruções. O Google, por exemplo, usa o sistema para agilizar o processo de busca e gerar resultados relevantes. Uma receita de bolo também, pois você precisa seguir o passo a passo para chegar no resultado esperado”, explica o professor da UFRJ. Resumindo: não existe óbvio para os computadores. Se ninguém explicar, detalhar o que ele deve fazer, nada acontece.
+
+Cerca de 80 anos depois da publicação do artigo e 65 anos após a invenção do primeiro computador vendido comercialmente – o modelo Mark 1, também desenvolvido por Turing, na Universidade de Manchester – , todas as versões atuais de processadores continuam se adequando ao modelo proposto pelo britânico.
