@@ -36,14 +36,18 @@ O primeiro computador que implementou a arquitetura de von Neumann foi o Electro
 A arquitetura de von Neumann é um modelo clássico de arquitetura de computadores que foi proposto pelo matemático e cientista da computação John von Neumann. Essa arquitetura é comumente usada em muitos sistemas computacionais até hoje. Ela é dividida em quatro componentes principais:
 
 Unidade de Processamento Central (CPU): A CPU é o cérebro do computador e executa as instruções. Ela consiste em duas partes principais: a Unidade de Controle (UC) e a Unidade Lógica e Aritmética (ULA). A UC é responsável por buscar instruções na memória, interpretá-las e coordenar as operações de todas as partes do sistema. A ULA realiza operações lógicas e aritméticas, como adição, subtração, comparação, etc.
+
 Memória: A memória armazena tanto as instruções quanto os dados necessários para a execução dos programas. Na arquitetura de von Neumann, a memória é considerada uma entidade única, onde tanto as instruções quanto os dados são armazenados em uma mesma estrutura.
+
 Unidade de Entrada/Saída (E/S): AE/S é responsável pela comunicação do computador com o mundo externo. Ela permite a entrada de dados no computador (por exemplo, através do teclado, mouse, etc.) e a saída de dados (por exemplo, através do monitor, impressora, etc.).
+
 Barramento: O barramento é um conjunto de linhas que permite a comunicação e transferência de dados entre a CPU, a memória e os dispositivos de E/S. Ele consiste em três tipos de barramentos principais: barramento de dados (transmite os dados), barramento de endereços (transmite informações sobre a localização dos dados) e barramento de controle (transmite sinais de controle para coordenar as operações do sistema).
+
 Esses componentes trabalham em conjunto para executar instruções, buscar dados, armazenar informações e controlar o fluxo de dados dentro do sistema. A arquitetura de von Neumann é conhecida como uma arquitetura "armazenar e executar" devido à sua capacidade de armazenar tanto as instruções quanto os dados na mesma memória e executar as instruções sequencialmente.
 
 * c) Ilustre a arquitetura de von Neumann.
 
-![Arquitetura de von Neumann](C:\Users\Usuário\Documents\GitHub\questionario\Imagens\420px-Arquitetura_de_von_Neumann.svg.png)
+![Arquitetura de von Neumann](C:\Users\Usuário\Documents\GitHub\questionario\Imagens\420px-Arquitetura_de_von_Neumann.png)
 
 
 
