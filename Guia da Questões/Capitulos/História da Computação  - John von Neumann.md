@@ -47,7 +47,7 @@ Esses componentes trabalham em conjunto para executar instruções, buscar dados
 
 * c) Ilustre a arquitetura de von Neumann.
 
-![Arquitetura de von Neumann](C:\Users\Usuário\Documents\GitHub\questionario\Imagens\420px-Arquitetura_de_von_Neumann.png) 
+![Arquitetura de von Neumann](C:\Users\Usuário\Documents\GitHub\questionario\Imagens\Arquitetura.jpg)
 
 
 
